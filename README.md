@@ -1,8 +1,8 @@
 # DACA Portfoolio
  
 **Programm:** Data Analyst Career Accelerator (DACA)
-**Osaleja:** [Sinu Nimi]
-**Algus:** [Kuupäev]
+**Osaleja:** [Evelyn Uusmaa]
+**Algus:** [11.08.2026]
  
 ## Kirjeldus
  
@@ -29,5 +29,5 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
  
 ## Kontaktc
  
-- **GitHub:** [github.com/sinu-username](https://github.com/sinu-username)
-- **Email:** sinu.email@gmail.com
+- **GitHub:** [github.com/Nordmehr](https://github.com/Nordmehr)
+- **Email:** evelyn.uusmaal@gmail.com

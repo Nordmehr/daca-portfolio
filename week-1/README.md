@@ -67,6 +67,18 @@ Kõik kasutatud päringud asuvad failis:
 
 ![NULL-väärtuste kontroll](07-null-values-check.png)
 
+### Andmete rühmitamine ja koondfunktsioonid
+
+![GROUP BY ja koondfunktsioonide tulemus](08-group-by-aggregate-results.png)
+
+Selles päringus rühmitasin tooted kategooriate järgi ning kasutasin toodete arvu ja hindade analüüsimiseks funktsioone `COUNT()`, `SUM()`, `AVG()`, `MIN()` ja `MAX()`.
+
+### Mitme filtreerimistingimuse kasutamine
+
+![AND ja OR filtreerimise tulemus](09-and-or-filtering-results.png)
+
+Selles päringus kasutasin operaatoreid `AND` ja `OR`, et ühendada ühe päringu sees mitu filtreerimistingimust.
+
 ## Mida õppisin?
 
 Õppisin SQL-päringute abil andmebaasist vajalikku teavet leidma ning tulemusi filtreerima, sorteerima ja piirama. Sain harjutada ka unikaalsete väärtuste leidmist, ridade loendamist ja puuduvate väärtuste kontrollimist.

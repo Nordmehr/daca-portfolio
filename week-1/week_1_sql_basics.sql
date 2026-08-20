@@ -1,4 +1,4 @@
--- Mitu toodet on kokku?
+--- Mitu toodet on kokku?
 select
   COUNT(*) as product_count
 from
@@ -58,7 +58,7 @@ select
   category,
   COUNT(*) as product_count
 from
-  products
+  products;
   -- Millised veerud ja andmed tabelis on?    
 select
   *
@@ -91,3 +91,28 @@ from
 where
   table_schema = 'public'
   and table_name = 'products'
+
+  -- Toodete arv ja hinnad kategooriate kaupa
+SELECT
+    category,
+    COUNT(*) AS product_count,
+    AVG(retail_price) AS average_retail_price,
+    MIN(retail_price) AS minimum_retail_price,
+    MAX(retail_price) AS maximum_retail_price,
+    SUM(retail_price) AS total_retail_price
+FROM products
+WHERE retail_price IS NOT NULL
+GROUP BY category
+ORDER BY average_retail_price DESC;
+
+-- Keskkonnasertifikaadiga ja alla 100 euro maksvad tooted
+SELECT
+    product_name,
+    category,
+    retail_price,
+    eco_certified
+FROM products
+WHERE eco_certified = TRUE
+  AND retail_price < 100
+ORDER BY retail_price;
+

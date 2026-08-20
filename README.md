@@ -15,7 +15,21 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - Supabase seadistamine ✅
  
 ### Week 1: SQL Põhitõed
-- (tulemas...)
+- Esimesel nädalal harjutasin SQL-i põhitõdesid ja andmebaasis olevate andmete uurimist. Õppisin koostama lihtsamaid päringuid, andmeid filtreerima, sorteerima ja rühmitama ning kasutama arvutusteks koondfunktsioone.
+
+### Harjutatud oskused
+
+- andmete pärimine käsuga `SELECT`
+- ridade filtreerimine käsuga `WHERE`
+- tulemuste sorteerimine käsuga `ORDER BY`
+- andmete rühmitamine käsuga `GROUP BY`
+- koondfunktsioonide `COUNT()`, `SUM()`, `AVG()`, `MIN()` ja `MAX()` kasutamine
+- tingimuste kombineerimine operaatoritega `AND` ja `OR`
+- tabeli struktuuri ja andmete kontrollimine
+
+### Artefakt
+
+- [SQL põhitõed ja andmete analüüsimine](week-1/README.md)
  
 ### Week 2: SQL Andmete Puhastamine
 - (tulemas...)

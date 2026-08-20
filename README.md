@@ -31,7 +31,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - tingimuste kombineerimine operaatoritega `AND` ja `OR`
 - tabeli struktuuri ja andmete kontrollimine
 
-### Artefakt
+**Artefakt:**
 
 - [SQL põhitõed ja andmete analüüsimine](week-1/README.md)
  

@@ -21,6 +21,12 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 ### Week 1: SQL Põhitõed
 - Esimesel nädalal harjutasin SQL-i põhitõdesid ja andmebaasis olevate andmete uurimist. Õppisin koostama lihtsamaid päringuid, andmeid filtreerima, sorteerima ja rühmitama ning kasutama arvutusteks koondfunktsioone.
 
+**Grupitöö:**
+
+- [UrbanStyle Sales Analytics – meeskonnaprojekt](https://github.com/andres-assukyll/urbanstyle-sales-analytics)
+- [Minu panus – Product Data Explorer](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/product-data-explorer.md)
+
+
 ### Harjutatud oskused
 
 - andmete pärimine käsuga `SELECT`

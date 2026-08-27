@@ -42,7 +42,22 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - [SQL põhitõed ja andmete analüüsimine](week-1/README.md)
  
 ### Week 2: SQL Andmete Puhastamine
-- (tulemas...)
+# Week 2 – SQL-andmete puhastamine
+
+## Eesmärk
+
+Selle artefakti eesmärk oli kontrollida `sales` tabeli andmekvaliteeti ning leida duplikaadid, puuduvad väärtused ja probleemsed kuupäevad. Algandmete säilitamiseks lõin tabelist eraldi testkoopia `sales_test`.
+
+Analüüsi ja puhastamise tegin Supabase’i PostgreSQL-andmebaasis.
+
+## Kasutatud tabel
+
+Analüüsisin `sales` tabelit, mis sisaldab müügitehingute andmeid. Puhastamiseks lõin sellest koopia:
+
+```sql
+CREATE TABLE sales_test AS
+SELECT *
+FROM sales;
  
 ## Oskused
  

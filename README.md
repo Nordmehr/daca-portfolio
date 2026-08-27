@@ -42,7 +42,6 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
 - [SQL põhitõed ja andmete analüüsimine](week-1/README.md)
  
 ### Week 2: SQL Andmete Puhastamine
-# Week 2 – SQL-andmete puhastamine
 
 ## Eesmärk
 

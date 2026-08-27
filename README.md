@@ -49,6 +49,10 @@ Selle artefakti eesmärk oli kontrollida `sales` tabeli andmekvaliteeti ning lei
 
 Analüüsi ja puhastamise tegin Supabase’i PostgreSQL-andmebaasis.
 
+**Artefakt:**
+
+- [Sales-tabeli andmete puhastamine](week-2/README.md)
+
 ## Kasutatud tabel
 
 Analüüsisin `sales` tabelit, mis sisaldab müügitehingute andmeid. Puhastamiseks lõin sellest koopia:

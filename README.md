@@ -57,6 +57,7 @@ Analüüsisin `sales` tabelit, mis sisaldab müügitehingute andmeid. Puhastamis
 CREATE TABLE sales_test AS
 SELECT *
 FROM sales;
+```
  
 ## Oskused
  

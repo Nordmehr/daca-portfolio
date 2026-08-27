@@ -53,15 +53,6 @@ Analüüsi ja puhastamise tegin Supabase’i PostgreSQL-andmebaasis.
 
 - [Sales-tabeli andmete puhastamine](week-2/README.md)
 
-## Kasutatud tabel
-
-Analüüsisin `sales` tabelit, mis sisaldab müügitehingute andmeid. Puhastamiseks lõin sellest koopia:
-
-```sql
-CREATE TABLE sales_test AS
-SELECT *
-FROM sales;
-```
  
 ## Oskused
  

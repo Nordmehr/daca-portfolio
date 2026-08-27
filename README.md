@@ -43,7 +43,7 @@ See repositoorium sisaldab minu DACA õppeprojekte ja portfoolio.
  
 ### Week 2: SQL Andmete Puhastamine
 
-## Eesmärk
+### Eesmärk
 
 Selle artefakti eesmärk oli kontrollida `sales` tabeli andmekvaliteeti ning leida duplikaadid, puuduvad väärtused ja probleemsed kuupäevad. Algandmete säilitamiseks lõin tabelist eraldi testkoopia `sales_test`.
 

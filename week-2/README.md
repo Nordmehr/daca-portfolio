@@ -91,7 +91,8 @@ Duplikaatide järelkontroll ei tagastanud ühtegi rida. See kinnitab, et korduva
 - Pärast puhastamist jäi alles 9314 müügikirjet.
 - Müügikuupäev ja koguhind olid kõigil kontrollitud ridadel olemas.
 - `customer_id` puudus 1487 real.
-- Puuduva klienditunnusega read säilitati, et vältida müügiandmete põhjendamatut kaotamist.
+- Pärast puhastamist jäi alles 9314 müügikirjet.
+- Kokku eemaldati 6603 probleemset rida.
 - Algne `sales` tabel jäi muutmata.
 
 ## Failid

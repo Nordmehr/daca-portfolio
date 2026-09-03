@@ -64,6 +64,23 @@ Teisel nädalal kontrollisin `sales` tabeli andmekvaliteeti. Lõin algandmetest 
 
 - [UrbanStyle Sales Analytics – meeskonnaprojekt](https://github.com/andres-assukyll/urbanstyle-sales-analytics)
 
+## Week 3: SQL JOIN-id
+
+Kolmandal nädalal ühendasin SQL-i abil klientide ja müügitehingute tabelid. Analüüsisin kliente, kes on registreerunud, kuid pole veel ühtegi ostu teinud, ning koostasin tulemuste põhjal turundussoovitused.
+
+### Harjutatud oskused
+
+- tabelite ühendamine käsuga `LEFT JOIN`
+- tabelialiaste kasutamine
+- tabelite sidumine veeru `customer_id` kaudu
+- puuduvate vastete leidmine tingimusega `IS NULL`
+- tulemuste rühmitamine ja sorteerimine
+- kliendistaatuse määramine käsuga `CASE`
+- SQL-tulemuste muutmine praktilisteks ärisoovitusteks
+
+### Individuaalne artefakt
+
+- [SQL JOIN-id ja kadunud klientide analüüs](week-3/README.md)
 
 ## Õpiteekond
 

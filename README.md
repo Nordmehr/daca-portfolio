@@ -82,6 +82,34 @@ Kolmandal nädalal ühendasin SQL-i abil klientide ja müügitehingute tabelid. 
 
 - [SQL JOIN-id ja kadunud klientide analüüs](week-3/README.md)
 
+## Week 4: SQL agregatsioon
+
+Neljandal nädalal õppisin SQL-i agregatsioonifunktsioone, andmete rühmitamist ja grupeeritud tulemuste filtreerimist. Kasutasin `GROUP BY`, `HAVING`, koondfunktsioone ja window function’e, et muuta detailsed andmeread kokkuvõtlikuks ja analüüsitavaks infoks.
+
+Minu ülesanne grupitöös oli **Inventuuristatistika**. Analüüsisin UrbanStyle’i tootekategooriaid, hindu ja müügikoguseid ning järjestasin tooted kategooriate sees. Lisaülesandes leidsin iga kategooria kolm enim müüdud toodet ja nende osakaalu kategooria müügist.
+
+### Harjutatud oskused
+
+- andmete rühmitamine käsuga `GROUP BY`
+- grupeeritud tulemuste filtreerimine käsuga `HAVING`
+- koondfunktsioonide `COUNT()`, `SUM()`, `AVG()`, `MIN()` ja `MAX()` kasutamine
+- erinevate toodete loendamine käsuga `COUNT(DISTINCT ...)`
+- tabelite ühendamine käskudega `JOIN` ja `LEFT JOIN`
+- puuduvate väärtuste asendamine funktsiooniga `COALESCE`
+- toodete järjestamine funktsiooniga `ROW_NUMBER()`
+- kategooriasiseste arvutuste tegemine käsuga `PARTITION BY`
+- CTE-de ehk `WITH`-päringute kasutamine
+- tulemuste põhjal äriliste soovituste koostamine
+
+### Minu panus grupitöösse
+
+- [Roll C: Inventuuristatistika](week-4/README.md)
+
+### Grupitöö
+
+- [UrbanStyle Sales Analytics – meeskonnaprojekt](https://github.com/andres-assukyll/urbanstyle-sales-analytics)
+
+---
 ## Õpiteekond
 
 | Nädal | Teema | Staatus |

@@ -89,8 +89,8 @@ Kolmandal nädalal ühendasin SQL-i abil klientide ja müügitehingute tabelid. 
 | Week 0 | Onboarding ja tööriistade seadistamine | ✅ Valmis |
 | Week 1 | SQL põhitõed | ✅ Valmis |
 | Week 2 | SQL-andmete puhastamine | ✅ Valmis |
-| Week 3 | SQL JOIN-id | 🔄 Töös |
-| Week 4 | SQL koondamine | ⏳ Tulemas |
+| Week 3 | SQL JOIN-id |  ✅ Valmis |
+| Week 4 | SQL koondamine |  ✅ Valmis |
 | Week 5–6 | Andmete visualiseerimine | ⏳ Tulemas |
 | Week 7–8 | Python | ⏳ Tulemas |
 | Week 9–10 | Portfoolio ja karjäär | ⏳ Tulemas |

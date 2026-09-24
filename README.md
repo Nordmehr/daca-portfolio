@@ -111,11 +111,29 @@ Minu ülesanne grupitöös oli **Inventuuristatistika**. Analüüsisin UrbanStyl
 
 ## Week 5–6: Andmete visualiseerimine ja andmelood
 
-Koostasin UrbanStyle'i müügiandmete põhjal Power BI-s tegevjuhi ülevaate ning Pärnu kaupluse ja e-poe eraldi vaated. Tõin välja müügitrendid, olulisemad tootekategooriad ja tulemuste põhjal tehtavad järeldused.
+5. ja 6. nädalal töötasin UrbanStyle’i müügiandmetega Power BI-s. Eesmärk oli muuta tabelites olevad andmed juhtidele arusaadavateks dashboard’ideks ning selgitada, mida tulemused ettevõtte jaoks tähendavad. Need kaks nädalat moodustavad ühe jätkuva töö: alustasin ettevõtte üldvaatest ja liikusin seejärel konkreetsete müügikohtade analüüsini.
 
-- [Minu 5.–6. nädala ühine artefakt](week-6/README.md)
-- [UrbanStyle Sales Analyticsi grupitöö](https://github.com/andres-assukyll/urbanstyle-sales-analytics)
+**5. nädalal** koostasin tegevjuht Kristi Tammele CEO dashboard’i. Tõin ühte vaatesse peamised tulemusnäitajad, müügi muutumise ajas ja kaupluste võrdluse. Lisasin ka eraldi vaated kaupluste müügile ning laoseisule tootekategooriate lõikes. Harjutasin valima graafikuid nii, et juht näeks olulisi erinevusi kiiresti ega peaks neid toorandmetest ise otsima.
 
+**6. nädalal** oli minu ülesanne koostada Pärnu kaupluse ja e-poe (Online) vaated koos andmelugudega. Pärnu puhul uurisin, kas müügis avaldub selge hooajalisus; e-poe puhul vaatasin müügi muutumist ajas ja tootekategooriate tulemusi. Mõlema vaate juures sõnastasin, milline muster on graafikul näha, mida see võib äriliselt tähendada ning mida tasuks järgmisena kontrollida või teha.
+
+Pärnu kaupluse dashboard’il on kogumüügitulu **288,74 tuhat eurot**. Kõrgeim nähtav kuukäive jääb 2024. aasta teise poolde ning jalatsid on suurima müügituluga tootekategooria. Kuigi Pärnu on tuntud suvise sihtkohana, ei koondu graafikul kõik tugevad müügikuud ainult suvesse. Seetõttu soovitasin võrrelda samade kuude tulemusi eri aastatel, enne kui hooajalisuse kohta kindel järeldus teha.
+
+E-poe dashboard’il on kogumüügitulu **1,01 miljonit eurot**. Kõrgeim nähtav kuukäive ületab 2024. aasta lõpus ligikaudu 60 tuhat eurot ning ka siin on jalatsid suurima müügituluga kategooria. Soovitasin uurida tugevamate kuude toodete, kampaaniate, kasumi ja laoseisu seoseid, et otsustada, milliseid tegevusi tasub korrata või arendada.
+
+**Oluline õppetund oli andmete täielikkuse kontroll.** Mõlema vaate ajatelje lõpus langeb müük peaaegu nulli. Ainuüksi graafikust ei selgu, kas tegemist on tegeliku languse või puudulike viimaste perioodide andmetega. Seepärast tõin selle piirangu andmelugudes eraldi välja ega esitanud oletatavaid põhjuseid faktidena.
+
+**Harjutatud oskused:**
+
+- Power BI dashboard’ide ja eraldi asukohavaadete koostamine
+- peamiste tulemusnäitajate, ajatrendide ja tootekategooriate visualiseerimine
+- müügikohtade tulemuste võrdlemine
+- andmetest juhtidele arusaadavate järelduste ja soovituste sõnastamine
+- võimalike andmekvaliteedi probleemide märkamine
+- enda panuse dokumenteerimine individuaalses ja meeskonna GitHubi hoidlas
+
+- **Ühine individuaalne artefakt:** [UrbanStyle’i CEO, Pärnu ja e-poe dashboard’id ning andmelood](week-6/README.md)
+- **Grupitöö:** [UrbanStyle Sales Analytics – 6. nädala vaated](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week6)
 ---
 ## Õpiteekond
 

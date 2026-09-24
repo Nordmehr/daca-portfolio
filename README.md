@@ -126,7 +126,7 @@ Koostasin UrbanStyle'i müügiandmete põhjal Power BI-s tegevjuhi ülevaate nin
 | Week 2 | SQL-andmete puhastamine | ✅ Valmis |
 | Week 3 | SQL JOIN-id |  ✅ Valmis |
 | Week 4 | SQL koondamine |  ✅ Valmis |
-| Week 5–6 | Andmete visualiseerimine | ⏳ Tulemas |
+| Week 5–6 | Andmete visualiseerimine | ✅ Valmis |
 | Week 7–8 | Python | ⏳ Tulemas |
 | Week 9–10 | Portfoolio ja karjäär | ⏳ Tulemas |
  

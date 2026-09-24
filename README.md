@@ -124,7 +124,8 @@ Viiendal ja kuuendal nädalal õppisin müügiandmeid Power BI abil visualiseeri
 - graafikute põhjal peamiste järelduste ja soovituste sõnastamine
 - andmete täielikkuse kontrollimine enne tulemuste tõlgendamist
 
--### Individuaalne artefakt
+### Individuaalne artefakt
+
 [UrbanStyle’i CEO, Pärnu ja e-poe dashboard’id ning andmelood](week-6/README.md)
 
 - **Grupitöö:** [UrbanStyle Sales Analytics – 6. nädala vaated](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week6)

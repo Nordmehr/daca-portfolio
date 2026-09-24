@@ -109,6 +109,13 @@ Minu ülesanne grupitöös oli **Inventuuristatistika**. Analüüsisin UrbanStyl
 
 - [UrbanStyle Sales Analytics – meeskonnaprojekt](https://github.com/andres-assukyll/urbanstyle-sales-analytics)
 
+## Week 5–6: Andmete visualiseerimine ja andmelood
+
+Koostasin UrbanStyle'i müügiandmete põhjal Power BI-s tegevjuhi ülevaate ning Pärnu kaupluse ja e-poe eraldi vaated. Tõin välja müügitrendid, olulisemad tootekategooriad ja tulemuste põhjal tehtavad järeldused.
+
+- [Minu 5.–6. nädala ühine artefakt](week-6/README.md)
+- [UrbanStyle Sales Analyticsi grupitöö](https://github.com/andres-assukyll/urbanstyle-sales-analytics)
+
 ---
 ## Õpiteekond
 

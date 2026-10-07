@@ -128,7 +128,56 @@ Viiendal ja kuuendal nädalal õppisin müügiandmeid Power BI abil visualiseeri
 
 [UrbanStyle’i CEO, Pärnu ja e-poe dashboard’id ning andmelood](week-6/README.md)
 
-- **Grupitöö:** [UrbanStyle Sales Analytics – 6. nädala vaated](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week6)
+- **Grupitöö:** [UrbanStyle Sales Analytics – 6. nädala vaated](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week6)-
+
+## Nädal 7 – Python ja RFM-kliendianalüüs
+
+**Eesmärk:** analüüsida UrbanStyle’i klientide ostukäitumist ning
+koostada soovitused klientide hoidmiseks ja kordusostude kasvatamiseks.
+
+**Mida tegin?**
+- Laadisin ja ühendasin müügi- ning kliendiandmed pandasiga.
+- Eemaldasin korduvad kirjed, kontrollisin puuduvaid väärtusi
+  ja piirasin analüüsi aktiivse müügiperioodiga.
+- Arvutasin klientide Recency, Frequency ja Monetary näitajad.
+- Määrasin RFM-skoorid ning jagasin kliendid viide segmenti.
+- Koostasin Plotlyga kolm graafikut ja sõnastasin soovitused Markole.
+- Lisasin märkmikule eestikeelsed koodikommentaarid.
+
+**Mida õppisin?**  
+Harjutasin pandasiga andmete ühendamist, puhastamist, kuupäevade
+töötlemist ja rühmitamist. Õppisin kasutama qcut-meetodit skoorimiseks,
+looma Plotly graafikuid ning selgitama analüüsi tulemusi ärilises kontekstis.
+
+**Peamine tulemus:** analüüsi jäi 8923 müügikirjet ja 2540 ostnud klienti.
+Suurim segment oli Potential ehk potentsiaalsed kliendid:
+768 klienti ehk 30,2% analüüsitud klientidest.
+
+**Artefakt:** [RFM-analüüs, graafikud ja kokkuvõte](week-7/README.md)
+ning [Jupyteri märkmik koos koodikommentaaridega](week-7/week7_rfm_complete.ipynb).
+
+---
+## Nädal 8 – API kaudu andmete pärimine ja automatiseerimine
+
+**Eesmärk:** tuua UrbanStyle’i andmed API kaudu Pythonisse ning
+ühendada andmete pärimine ja töötlemine ühisesse töövoogu.
+
+**Mida tegin?**
+- Koostasin funktsioonid müügi-, kliendi- ja tooteandmete pärimiseks.
+- Lisasin müügiandmete päringule kuupäevavahemiku valiku.
+- Kontrollisin funktsioonide tööd näidispäringutega.
+- Vaatasin tagastatud tabelite ridu, veerge ja esimesi kirjeid.
+- Valmistasin oma API-osa ette meeskonnaga jagamiseks.
+
+**Mida õppisin?**  
+Harjutasin API-päringute tegemist, vastuste töötlemist ja andmete
+toomist pandas-tabelitesse. Õppisin jagama koodi korduvkasutatavateks
+funktsioonideks ning kasutama `if __name__ == "__main__"` plokki,
+et kontrollpäringud käivituksid faili otse käivitamisel.
+
+**Artefakt:** Python-kood müügi-, kliendi- ja tooteandmete
+API kaudu pärimiseks.
+  
 ---
 ## Õpiteekond
 

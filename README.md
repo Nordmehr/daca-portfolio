@@ -32,13 +32,9 @@ Esimesel nädalal harjutasin SQL-i põhitõdesid ja andmebaasis olevate andmete 
 - tingimuste kombineerimine operaatoritega `AND` ja `OR`
 - tabeli struktuuri ja andmete kontrollimine
 
-### Individuaalne artefakt
+-  **Artefakt:** [SQL põhitõed ja andmete analüüsimine](https://github.com/Nordmehr/daca-portfolio/blob/main/week-1/README.md)
 
-- [SQL põhitõed ja andmete analüüsimine](https://github.com/Nordmehr/daca-portfolio/blob/main/week-1/README.md)
-
-### Grupitöö
-
-- [Minu panus – Product Data Explorer](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/product-data-explorer.md)
+-  **Grupitöö:** [Minu panus – Product Data Explorer](https://github.com/andres-assukyll/urbanstyle-sales-analytics/blob/main/week1/product-data-explorer.md)
 - [UrbanStyle Sales Analytics – meeskonnaprojekt](https://github.com/andres-assukyll/urbanstyle-sales-analytics)
 
 ---
@@ -56,13 +52,9 @@ Teisel nädalal kontrollisin `sales` tabeli andmekvaliteeti. Lõin algandmetest 
 - duplikaatide eemaldamine käsuga `DELETE`
 - puhastamise tulemuste kontrollimine ja dokumenteerimine
 
-### Individuaalne artefakt
+-  **Artefakt:** [SQL-andmete puhastamine](https://github.com/Nordmehr/daca-portfolio/blob/main/week-2/README.md)
 
-- [SQL-andmete puhastamine](https://github.com/Nordmehr/daca-portfolio/blob/main/week-2/README.md)
-
-### Grupitöö
-
-- [UrbanStyle Sales Analytics – meeskonnaprojekt](https://github.com/andres-assukyll/urbanstyle-sales-analytics)
+-  **Grupitöö:** [UrbanStyle Sales Analytics – meeskonnaprojekt](https://github.com/andres-assukyll/urbanstyle-sales-analytics)
 
 ## Week 3: SQL JOIN-id
 
@@ -78,9 +70,7 @@ Kolmandal nädalal ühendasin SQL-i abil klientide ja müügitehingute tabelid. 
 - kliendistaatuse määramine käsuga `CASE`
 - SQL-tulemuste muutmine praktilisteks ärisoovitusteks
 
-### Individuaalne artefakt
-
-- [SQL JOIN-id ja kadunud klientide analüüs](week-3/README.md)
+-  **Artefakt:** [SQL JOIN-id ja kadunud klientide analüüs](week-3/README.md)
 
 ## Week 4: SQL agregatsioon
 
@@ -124,9 +114,7 @@ Viiendal ja kuuendal nädalal õppisin müügiandmeid Power BI abil visualiseeri
 - graafikute põhjal peamiste järelduste ja soovituste sõnastamine
 - andmete täielikkuse kontrollimine enne tulemuste tõlgendamist
 
-### Individuaalne artefakt
-
-- [UrbanStyle’i CEO, Pärnu ja e-poe dashboard’id ning andmelood](week-6/README.md)
+-  **Artefakt:** [UrbanStyle’i CEO, Pärnu ja e-poe dashboard’id ning andmelood](week-6/README.md)
 
 - **Grupitöö:** [UrbanStyle Sales Analytics – 6. nädala vaated](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week6)-
 

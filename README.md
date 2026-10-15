@@ -176,8 +176,12 @@ toomist pandas-tabelitesse. Õppisin jagama koodi korduvkasutatavateks
 funktsioonideks ning kasutama `if __name__ == "__main__"` plokki,
 et kontrollpäringud käivituksid faili otse käivitamisel.
 
-**Artefakt:** 
+**Artefakt:** [Minu API-päringute kood, pipeline ja käivitamisjuhend](week-8/README.md).
+
+### Grupitöö
+
 - [UrbanStyle Sales Analytics – 8. nädala API ja automatiseerimine](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week8)
+
   
 ---
 ## Õpiteekond

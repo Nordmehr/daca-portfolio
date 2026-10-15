@@ -169,6 +169,20 @@ et kontrollpäringud käivituksid faili otse käivitamisel.
 
 - **Grupitöö:**  [UrbanStyle Sales Analytics – 8. nädala API ja automatiseerimine](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week8)
 
+## Nädal 9 – Karjääriks valmistumine ja tehniliste oskuste hindamine
+
+**Eesmärk:** valmistuda andmeanalüütiku kandideerimisprotsessiks ning mõtestada tehniliste oskuste hindamist.
+
+**Minu panus:** täitsin grupitöös rolli B ja koostasin tehniliste oskuste hindamise juhendi.
+
+**Mida õppisin?**  
+Õppisin tehniliste ülesannete lahendamist süsteemselt ette valmistama ning pöörama tähelepanu lahenduskäigu selgitamisele ja tulemuste kontrollimisele.
+
+- **Artefakt:** [Tehniliste oskuste hindamise juhend](week-9/tehniliste-oskuste-hindamise-juhend.docx)
+
+- **Grupitöö:** [UrbanStyle Sales Analytics – 9. nädala karjääriks valmistumine](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week9)
+
+---
   
 ---
 ## Õpiteekond

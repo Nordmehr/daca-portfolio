@@ -1,0 +1,18 @@
+# Ühenduse võtmed
+.env
+.env.*
+
+# Pythoni ja macOS-i abifailid
+__pycache__/
+*.pyc
+__MACOSX/
+
+# Käivitamise logid
+week-8/logs/
+
+# Week 7 lähteandmed
+week-7/customers.csv
+week-7/sales2.csv
+
+# Week 8 kausta sattunud Week 7 märkmik
+week-8/week7_rfm_complete.ipynb

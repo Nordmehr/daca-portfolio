@@ -126,7 +126,7 @@ Viiendal ja kuuendal nädalal õppisin müügiandmeid Power BI abil visualiseeri
 
 ### Individuaalne artefakt
 
-[UrbanStyle’i CEO, Pärnu ja e-poe dashboard’id ning andmelood](week-6/README.md)
+- [UrbanStyle’i CEO, Pärnu ja e-poe dashboard’id ning andmelood](week-6/README.md)
 
 - **Grupitöö:** [UrbanStyle Sales Analytics – 6. nädala vaated](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week6)-
 
@@ -153,9 +153,9 @@ looma Plotly graafikuid ning selgitama analüüsi tulemusi ärilises kontekstis.
 Suurim segment oli Potential ehk potentsiaalsed kliendid:
 768 klienti ehk 30,2% analüüsitud klientidest.
 
-**Artefakt:** [RFM-analüüs, graafikud ja kokkuvõte](week-7/README.md)
-ning [Jupyteri märkmik koos koodikommentaaridega](week-7/week7_rfm_complete.ipynb).
-**Grupitöö:** [Meeskonna ühine RFM-analüüs ja tulemused](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week7).
+- **Artefakt:** [RFM-analüüs, graafikud ja kokkuvõte](week-7/README.md) ning
+- [Jupyteri märkmik koos koodikommentaaridega](week-7/week7_rfm_complete.ipynb).
+- **Grupitöö:** [Meeskonna ühine RFM-analüüs ja tulemused](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week7).
 
 ---
 ## Nädal 8 – API kaudu andmete pärimine ja automatiseerimine

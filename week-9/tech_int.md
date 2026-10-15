@@ -57,7 +57,3 @@ Koostasin tehnilise intervjueerija vaatepunktist hindamiskriteeriumid ning kolm 
 - Miks peab kandidaat suutma oma koodi ja analüüsiotsuseid selgitada.
 
 
-## Artefakt
-
-- Individuaalne värbamisjuhendi osa: käesolev README.
-- Meeskonna ühisdokumendi viide lisatakse pärast peatüki koondamist.

@@ -195,7 +195,7 @@ et kontrollpäringud käivituksid faili otse käivitamisel.
 | Week 3 | SQL JOIN-id |  ✅ Valmis |
 | Week 4 | SQL koondamine |  ✅ Valmis |
 | Week 5–6 | Andmete visualiseerimine | ✅ Valmis |
-| Week 7–8 | Python | ⏳ Tulemas |
+| Week 7–8 | Python | ✅ Valmis |
 | Week 9–10 | Portfoolio ja karjäär | ⏳ Tulemas |
  
 ## Oskused

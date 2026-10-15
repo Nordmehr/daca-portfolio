@@ -71,6 +71,7 @@ Kolmandal nädalal ühendasin SQL-i abil klientide ja müügitehingute tabelid. 
 - SQL-tulemuste muutmine praktilisteks ärisoovitusteks
 
 -  **Artefakt:** [SQL JOIN-id ja kadunud klientide analüüs](week-3/README.md)
+- **Grupitöö:** [UrbanStyle Sales Analytics – 3. nädala SQL JOIN-id](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week3)
 
 ## Week 4: SQL agregatsioon
 
@@ -91,9 +92,9 @@ Minu ülesanne grupitöös oli **Inventuuristatistika**. Analüüsisin UrbanStyl
 - CTE-de ehk `WITH`-päringute kasutamine
 - tulemuste põhjal äriliste soovituste koostamine
 
-### Minu panus grupitöösse
+- **Artefakt:** [Minu inventuuristatistika analüüs – roll C](week-4/README.md)
 
-- [Roll C: Inventuuristatistika](week-4/README.md)
+- **Grupitöö:** [UrbanStyle Sales Analytics – 4. nädala SQL agregatsioon](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week4)
 
 ### Grupitöö
 

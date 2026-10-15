@@ -178,7 +178,7 @@ et kontrollpäringud käivituksid faili otse käivitamisel.
 **Mida õppisin?**  
 Õppisin tehniliste ülesannete lahendamist süsteemselt ette valmistama ning pöörama tähelepanu lahenduskäigu selgitamisele ja tulemuste kontrollimisele.
 
-- **Artefakt:** [Tehniliste oskuste hindamise juhend](week-9/tehniliste-oskuste-hindamise-juhend.docx)
+- **Artefakt:** [Tehniliste oskuste hindamise juhend](week-9/tech_int.md)
 
 - **Grupitöö:** [UrbanStyle Sales Analytics – 9. nädala karjääriks valmistumine](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week9)
 

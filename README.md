@@ -155,6 +155,7 @@ Suurim segment oli Potential ehk potentsiaalsed kliendid:
 
 **Artefakt:** [RFM-analüüs, graafikud ja kokkuvõte](week-7/README.md)
 ning [Jupyteri märkmik koos koodikommentaaridega](week-7/week7_rfm_complete.ipynb).
+**Grupitöö:** [Meeskonna ühine RFM-analüüs ja tulemused](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week7).
 
 ---
 ## Nädal 8 – API kaudu andmete pärimine ja automatiseerimine

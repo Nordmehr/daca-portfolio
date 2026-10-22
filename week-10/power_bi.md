@@ -1,78 +1,182 @@
-# SLAID 3: POWER BI – ANDMETEST VISUAALSE ÜLEVAATENI
+# Nädal 10 – UrbanStyle’i interaktiivne Power BI aruanne
 
-**Esitaja:** Evelyn Uusmaa  
-**Kestus:** kuni 2 minutit  
-**Alus:** nädalate 5 ja 6 Power BI analüüsid ning nädala 10 interaktiivne aruanne
+**Autor:** Evelyn Uusmaa  
+**Roll grupitöös:** B – visualiseerimine  
+**Tööriist:** Power BI Desktop  
+**Analüüsiperiood:** 01.01.2023–28.02.2025
 
-## Põhisõnum
+## Eesmärk
 
-Power BI muudab müügiandmed visuaalseks ülevaateks,
-mille abil saab võrrelda müügikohti, tootekategooriaid
-ja klientide ostukäitumist.
+Minu ülesanne oli koostada UrbanStyle’i müügiandmetest
+interaktiivne aruanne, mis võimaldab võrrelda müügitulu,
+ostnud klientide arvu ja müüdud toodete kogust.
 
-## Esitluse ülesehitus
+Lähtusin varasemate nädalate Power BI tööst ning
+koostasin nädala 10 esitluseks ühtse kujundusega aruande.
 
-| Osa | Tegevus | Äriline küsimus |
-|---|---|---|
-| 1. Ülevaade | Müügitulu ajas, kategooriad ja kaupluste kaart | Kuidas müük jaguneb? |
-| 2. Kliendid | Ostnud klientide arv müügikohtade kaupa | Millised müügikohad jõuavad rohkemate klientideni? |
-| 3. Tooted | Müüdud toodete kogus kategooriate kaupa | Milliseid tooteid ostetakse kõige rohkem? |
-| 4. Müük | Müüdud toodete kogus müügikohtade kaupa | Kus müüakse kõige rohkem tooteid? |
+## Minu panus
 
-## 1. Andmed ja mõõdikud
+- Koostasin müügitulu ajagraafiku ja tootekategooriate
+  müügitulu jaotuse.
+- Lisasin füüsiliste kaupluste kaardi.
+- Koostasin müügikohtade võrdlused müügitulu,
+  ostnud klientide arvu ja müüdud koguse järgi.
+- Koostasin müüdud koguste võrdluse tootekategooriate kaupa.
+- Lõin neli navigeerimisnuppu ja sidusin need järjehoidjatega.
+- Seadistasin diagrammide nähtavuse eri vaadetes.
+- Piirasin analüüsiperioodi kuupäevaga 28.02.2025.
+- Ühtlustasin aruande värvid, teksti ja pealkirjad
+  grupi kodulehe kujundusega.
+- Lisasin andmesildid, et tulemusi oleks lihtsam
+  lugeda ja esitleda.
 
-- Aruandes kasutatakse müügi- ja tooteandmeid.
-- Analüüs hõlmab aktiivse müügi perioodi kuni 28.02.2025.
-- Müügitulu ja müüdud toodete kogus on eraldi näitajad:
-  suurem müügikogus ei tähenda automaatselt suuremat müügitulu.
-- Ostnud klientide arvu näidatakse müügikohtade kaupa.
-- Sama klient võib osta mitmest müügikohast,
-  seega ei tohi müügikohtade klientide arve liita
-  ettevõtte unikaalsete klientide koguarvuks.
+## Peamised tulemused
 
-## 2. Interaktiivne aruanne
+| Näitaja | Tulemus |
+|---|---:|
+| Müügitulu kokku | ligikaudu 2,90 mln € |
+| Tallinna müügitulu | ligikaudu 1,09 mln € |
+| E-poe müügitulu | ligikaudu 1,00 mln € |
+| Jalatsite ja meesteriiete osakaal müügitulust | ligikaudu 52,3% |
+| Müüdud toodete kogus kokku | 18 323 tk |
 
-Aruandes on neli navigeerimisnuppu:
+Müügitulu ja osakaalud põhinevad aruandes kuvatud
+ümardatud väärtustel.
 
-- Ülevaade
-- Kliendid
-- Tooted
-- Müük
+## Aruande vaated
 
-Nupud on seotud järjehoidjatega, mis juhivad
-diagrammide nähtavust samal aruandelehel.
+### 1. Ülevaade
 
-Graafikute valikute abil saab uurida andmete seoseid.
-Andmesildid näitavad täpseid väärtusi ning
-kohtspikrid annavad täiendavat infot.
+Ülevaates on müügitulu ajagraafik,
+tootekategooriate müügitulu jaotus,
+kaupluste kaart ja müügitulu võrdlus müügikohtade kaupa.
 
-## 3. Kujundus
+Tallinn ja e-pood annavad suurima panuse müügitulusse.
+Tootekategooriatest moodustavad jalatsid ja meesteriided
+kokku üle poole müügitulust.
 
-- Ühtne kujundus grupi kodulehega:
-  hele taust, türkiisrohelised põhitoonid ja tume tekst.
-- Oranž rõhuvärv aitab eristada vahetuvat diagrammi.
-- Pealkirjad eristavad müügitulu eurodes,
-  klientide arvu ja müüdud kogust tükkides.
-- Selge paigutus ja loetavad arvud toetavad
-  nii iseseisvat uurimist kui ka suulist esitlust.
+![UrbanStyle – müügi ülevaade](powerbi_ylevaade.png)
 
-## Äriline väärtus
+### 2. Kliendid
 
-Aruanne võimaldab võrrelda müügikohtade tulemusi,
-jälgida müügitulu muutumist ning uurida
-tootekategooriate ja klientide panust müüki.
+Klientide vaates näitab alumine diagramm
+ostnud klientide arvu müügikohtade kaupa.
 
-See aitab märgata erinevusi, mille põhjuseid
-saab seejärel täiendavalt analüüsida.
+See võimaldab võrrelda, kui paljude ostnud klientideni
+iga müügikoht jõudis. Täpsed väärtused on nähtavad
+tulpade juures.
 
-## Seos teiste esitlusosadega
+Sama klient võib osta mitmest müügikohast,
+mistõttu ei võrdu nende arvude summa ettevõtte
+unikaalsete klientide koguarvuga.
 
-SQL: kuidas saime analüüsiks usaldusväärsemad andmed?  
-Power BI: kuidas tulemusi uurida ja otsustajatele näidata?  
-Python: kuidas analüüsi korrata ja automatiseerida?
+![UrbanStyle – ostnud klientide arv müügikohtade kaupa](powerbi_kliendid.png)
 
-## Lõpusõnum
+### 3. Tooted
 
-Power BI koondas analüüsi tulemused interaktiivseks
-aruandeks, kus kasutaja saab liikuda üldpildist
-klientide, toodete ja müügikohtade võrdluseni.
+Toodete vaates näitab alumine diagramm
+müüdud kogust tootekategooriate kaupa.
+
+Koguste võrdlus täiendab müügitulu jaotust:
+müüdud tükkide arv ja rahaline tulemus
+kirjeldavad müüki eri vaatenurkadest.
+
+![UrbanStyle – müüdud toodete kogus kategooriate kaupa](powerbi_tooted.png)
+
+### 4. Müük
+
+Müügi vaates võrreldakse müüdud toodete kogust
+müügikohtade kaupa.
+
+| Müügikoht | Müüdud kogus (tk) |
+|---|---:|
+| Tallinn | 6 914 |
+| E-pood | 6 292 |
+| Tartu | 3 288 |
+| Pärnu | 1 829 |
+| **Kokku** | **18 323** |
+
+Tallinn ja e-pood on suurimad müügikohad
+nii müügitulu kui ka müüdud koguse poolest.
+
+![UrbanStyle – müüdud toodete kogus müügikohtade kaupa](powerbi_myyk.png)
+
+## Interaktiivse lahenduse ülesehitus
+
+Kasutasin ühte aruandelehte ja nelja navigeerimisnuppu:
+Ülevaade, Kliendid, Tooted ja Müük.
+
+Nupud käivitavad järjehoidjad, mis määravad,
+millised diagrammid on nähtaval.
+Ühised graafikud jäävad alles ning alumine
+parempoolne diagramm vahetub vastavalt valitud teemale.
+
+Erinevate mõõdikute jaoks kasutasin eraldi diagramme.
+Järjehoidjad juhivad nende nähtavust,
+mitte diagrammi mõõdiku vahetamist.
+
+Kujunduses kasutasin heledat tausta, tumedat teksti
+ja türkiisrohelist põhivärvi.
+Oranž rõhuvärv aitab märgata vahetuvat diagrammi.
+
+## Järeldused
+
+- Tallinn ja e-pood on ettevõtte suurimad müügikohad
+  nii müügitulu kui ka müüdud koguse järgi.
+- Jalatsite ja meesteriiete tulemused mõjutavad
+  oluliselt ettevõtte kogumüüki.
+- Müügitulu, kogust ja klientide arvu tuleb vaadata koos,
+  et mõista müügikohtade erinevusi.
+- Tartu ja Pärnu väiksema müügi põhjused vajavad
+  lisaanalüüsi, näiteks kaupluste suuruse,
+  külastatavuse ja sortimendi võrdlust.
+- Müügitulu üksi ei näita kaupluse kasumlikkust.
+
+## Mida õppisin?
+
+- Kuidas kasutada järjehoidjaid ja valikupaneeli
+  diagrammide nähtavuse juhtimiseks.
+- Kuidas siduda navigeerimisnuppe järjehoidjatega.
+- Kuidas eristada müügitulu, müüdud kogust
+  ja ostnud klientide arvu.
+- Kuidas vormindada andmesilte ja kuvaühikuid,
+  et arvud oleksid loetavad.
+- Kuidas kohandada aruande kujundust
+  ühise esitluse visuaalse stiiliga.
+- Kuidas sõnastada graafikute pealkirju nii,
+  et mõõdik ja ühik oleksid üheselt mõistetavad.
+
+Oluline õppetund oli, et kopeeritud diagrammi puhul
+tuleb üle kontrollida nii mõõdik, kategooriad
+kui ka pealkiri. Ainult pealkirja muutmisest ei piisa.
+
+## Piirangud
+
+- Analüüs lõpeb 28.02.2025.
+  2025. aasta kaks kuud ei ole otse võrreldavad
+  varasemate täisaastatega.
+- Sama klient võib esineda mitme müügikoha klientide seas.
+- Kaardil on füüsilised kauplused.
+  E-pood on kaasatud müügikohtade võrdlustesse.
+- Müügitulu on graafikutel osaliselt ümardatud.
+- Aruanne kirjeldab tulemusi;
+  erinevuste põhjused vajavad täiendavat analüüsi.
+
+## Artefaktid
+
+- [Power BI aruanne](UrbanStyle_week10.pbix)
+- Neli aruande eelvaadet, mis on kuvatud selle faili sees.
+- Aruande kirjeldus, tulemused ja õpikogemus käesolevas failis.
+
+Interaktiivseks kasutamiseks laadi PBIX-fail alla
+ja ava Power BI Desktopis.
+PNG-pildid on staatilised eelvaated.
+
+## Seos grupitööga
+
+Minu visualiseerimise osa täiendab grupi SQL-i
+ja Pythoni tööd: SQL aitab andmeid ette valmistada
+ja analüüsida, Power BI tulemusi uurida ja esitleda
+ning Python analüüsi korrata ja automatiseerida.
+
+[Grupitöö – UrbanStyle Sales Analytics, nädal 10](https://github.com/andres-assukyll/urbanstyle-sales-analytics/tree/main/week10)
